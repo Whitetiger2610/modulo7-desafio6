@@ -55,6 +55,8 @@ Para culminar, debe presionar el botón "Iniciar Sesión"
 
 Si el usuario fue autenticado exitosamente, saldrá una ventana informando autenticación exitosa.
 
+Posteriormente se activa la interaz del perfil donde se visualizará el correo del usuario, el rol y el lenguaje
+
 Créditos
 De Mauricio González Agudelo para Desafío Latam, FullStack Javascript, Generación 68.
 
